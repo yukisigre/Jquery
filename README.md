@@ -1,1 +1,2 @@
 # Jquery
+Hibiki Stratford
